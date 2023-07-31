@@ -1,3 +1,4 @@
+#Thyroid nodule segmentation in ultrasound images using UNet with Resnet encoder
 
 This code accompanies a research paper titled "Thyroid nodule segmentation in ultrasound images using UNet with Resnet encoder: best performance on public data." As the paper has not been published yet, the provided code is intended for review by peer reviewers.
 
