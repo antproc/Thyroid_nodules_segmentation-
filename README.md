@@ -15,7 +15,7 @@ URL: https://stanfordaimi.azurewebsites.net/datasets/a72f2b02-7b53-4c5d-963c-d72
 
 Implementation and evaluation of the proposed UNet with Resnet encoder, can be found in the file "Thyroid_nodules_segmentation_ResUNet.ipynb."
 
-The jupyter notebook contains the results and predicted masks of the best model, which is a combination of the TN3K and TDID datasets, along with one randomly selected image (n=1) from the Thyroid Ultrasound Cine-clip dataset. Due to its size, the model itself cannot be uploaded directly to GitHub.
+The jupyter notebook contains the results and predicted masks of the best model, which is a combination of the TN3K and TDID datasets, along with one randomly selected image (n=1) from the Thyroid Ultrasound Cine-clip dataset.
 
 Sincerely,
 Authors
